@@ -1,4 +1,4 @@
-# template-simple-typescript-library
+# `@utori-dev/template-simple-typescript-library`
 
 Simple and imperfect template for a TypeScript library.
 
