@@ -62,15 +62,15 @@ To publish your package on the [NPM registry](npmjs), you can run `npm run relea
 
 It is wise to do a dry run before actually publishing. You can do this with `npm run release -- --dry-run`.
 
-git_repo: https://github.com/utori-dev/template-simple-typescript-library
-github_docs_template: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
-jest: https://jestjs.io/
-jest_docs_config: https://jestjs.io/docs/configuration
-jest_docs_config_testenvironment: https://jestjs.io/docs/configuration#testenvironment-string
-npmjs: https://www.npmjs.com/
-prettier: https://prettier.io/
-prettier_docs_config: https://prettier.io/docs/en/configuration.html
-typescript: https://www.typescriptlang.org/
-typescript_docs_config: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
-typescript_ref_config: https://www.typescriptlang.org/tsconfig
-typescript_ref_config_lib: https://www.typescriptlang.org/tsconfig#lib
+[git_repo]: https://github.com/utori-dev/template-simple-typescript-library
+[github_docs_template]: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
+[jest]: https://jestjs.io/
+[jest_docs_config]: https://jestjs.io/docs/configuration
+[jest_docs_config_testenvironment]: https://jestjs.io/docs/configuration#testenvironment-string
+[npmjs]: https://www.npmjs.com/
+[prettier]: https://prettier.io/
+[prettier_docs_config]: https://prettier.io/docs/en/configuration.html
+[typescript]: https://www.typescriptlang.org/
+[typescript_docs_config]: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+[typescript_ref_config]: https://www.typescriptlang.org/tsconfig
+[typescript_ref_config_lib]: https://www.typescriptlang.org/tsconfig#lib
