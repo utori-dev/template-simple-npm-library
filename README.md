@@ -6,13 +6,13 @@ Simple and imperfect template for a TypeScript library.
 
 This template allows you to create a simple TypeScript library.
 
-It includes basic configurations for [Prettier](prettier), [Jest](jest), and [TypeScript](typescript).
+It includes basic configurations for [Prettier](prettier), [Jest](jest), and [TypeScript][typescript].
 
 ## Getting Started
 
-1. Clone the [template repository on GitHub](git_repo).\
+1. Clone the [template repository on GitHub][git_repo].\
    **Note**: If you are unsure on how to do this, see the
-   [GitHub docs on creating repositories from templates](github_docs_template).
+   [GitHub docs on creating repositories from templates][github_docs_template].
 1. Update the following properties in `package.json`:
    - `name`: Update to your library's name.
    - `description`: Update to a description of your library.
@@ -28,27 +28,27 @@ It includes basic configurations for [Prettier](prettier), [Jest](jest), and [Ty
 
 ### Prettier (`.prettierrc.yaml`)
 
-This project includes a `.prettierrc.yaml` configuration for [Prettier](prettier).
+This project includes a `.prettierrc.yaml` configuration for [Prettier][prettier].
 You may not need to modify this at all.
 
-See the [documentation for configuring Prettier](prettier_docs_config).
+See the [documentation for configuring Prettier][prettier_docs_config].
 
 ### Jest (`jest.config.json`)
 
-This project includes a starter `jest.config.json` configuration for [Jest](jest).
+This project includes a starter `jest.config.json` configuration for [Jest][jest].
 
-You will probably want to configure this to include the appropriate [`testEnvironment`](jest_docs_config_testenvironment).
+You will probably want to configure this to include the appropriate [`testEnvironment`][jest_docs_config_testenvironment].
 
-See the [documentation for configuring Jest](jest_docs_config).
+See the [documentation for configuring Jest][jest_docs_config].
 
 ### TypeScript (`tsconfig.json`)
 
-This project includes a starter `tsconfig.json` configuration for [TypeScript](typescript).
-You can [read more about what a `tsconfig.json` file in the TypeScript handbook](typescript_docs_config).
+This project includes a starter `tsconfig.json` configuration for [TypeScript][typescript].
+You can [read more about what a `tsconfig.json` file in the TypeScript handbook][typescript_docs_config].
 
-You will probably want to configure the `tsconfig.json` to include the appropriate [`lib`](typescript_ref_config_lib) values.
+You will probably want to configure the `tsconfig.json` to include the appropriate [`lib`][typescript_ref_config_lib] values.
 
-For other values, see the [official `tsconfig.json` reference](typescript_ref_config).
+For other values, see the [official `tsconfig.json` reference][typescript_ref_config].
 
 ### Release
 
@@ -58,7 +58,7 @@ In the `createDistributionPackage` function, you can modify the options used to 
 
 ## Creating a Release
 
-To publish your package on the [NPM registry](npmjs), you can run `npm run release` in the root directory.
+To publish your package on the [NPM registry][npmjs], you can run `npm run release` in the root directory.
 
 It is wise to do a dry run before actually publishing. You can do this with `npm run release -- --dry-run`.
 
