@@ -5,6 +5,7 @@ Simple and imperfect template for a TypeScript library.
 ## Overview
 
 This template allows you to create a simple TypeScript library.
+
 It includes basic configurations for [Prettier](prettier), [Jest](jest), and [TypeScript](typescript).
 
 ## Getting Started
